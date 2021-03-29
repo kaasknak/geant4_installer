@@ -1,3 +1,6 @@
+This installer is only meant for WSL and has only been tested using ubuntu 18.04 and might not suit everyone's need.
+If you need another installer be sure to check out DavudSarria89's install scripts [here](https://github.com/DavidSarria89/GEANT4-easy-install-scripts-Linux-Mac)
+
 # geant4_installer
 This script will install CERN's GEANT4 on the WSL running ubuntu 18.04.
 It should work with other versions as well assuming the dependencies are present but I have not tested it.
